@@ -6,10 +6,18 @@ L'inflation, est la perte du pouvoir d'achat de la monnaie qui se traduit par un
 
 On voit que l'indice d'inflation joue un rôle très important dans l'économie. En France, l'inflation est calculée par l'Insee (Institut national de la statistique et des études économiques) . Ce calcul est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
-## 1. Qui a créé ce jeu de données ? A quelles fins ?
+## 1. L’histoire de l’inflation
 
-En France, l'inflation est mesurée par l'Insee au travers de l'indice des prix à la consommation (IPC). Il a été créé en 1914, plus de trente ans avant la fondation de l’Institut national de la statistique et des études économiques en 1946. Aujourd’hui on utilise la 8e génération de l’IPC. Cet indice est de première importance, car il permet de mesurer l’inflation sur une période donnée, généralement une année. 
-L’inflation est un des indicateurs importants en macroéconomie. L'inflation est une mesure importante pour évaluer la santé d'une économie, l'activité des consommateurs. Grâce au taux d'inflation, nous saurons si l'économie est en période d'inflation ou de déflation. Le gouvernement surveille cet indice pour agir en cas de récession, ou pour réagir à une inflation trop forte ou au contraire trop faible.
+L'Institut national de la statistique et des études économiques est le bureau national des statistiques de France.  L'INSEE a été créé par la loi de finances du 27 avril 1946. L’Insee est une direction générale du ministère de l'Économie et des Finances.  Il collecte, analyse et diffuse des informations sur l’économie et la société française. Eurostat considère l'INSEE comme un organisme indépendant parce qu’il conduit ses travaux en  indépendance professionnelle. 
+  
+L'une des tâches importantes de l'Insee est de fournir l’indice d'inflation en France au travers de l'indice des prix à la consommation (IPC). Cet indice est de première importance, car il permet de mesurer l’inflation sur une période donnée, généralement une année. 
+
+En économie, l'inflation est une situation de hausse générale des prix des biens et services. Par conséquent, la désinflation est une situation où la croissance des prix est réduite. La mesure commune de l'inflation est le taux d'inflation, c'est-à-dire la variation en pourcentage annualisée de l' indice général des prix.
+
+Le taux d’inflation est un des indicateurs importants en macroéconomie. Le taux d'inflation est une mesure importante pour évaluer la santé d'une économie, l'activité des consommateurs. Une hausse du taux d'inflation, en particulier l'hyperinflation, provoque des effets négatifs conduisant à une crise économique. Au contraire, la déflation affecte la demande de biens et de services, entraînant une situation difficile pour la croissance de l'économie. Ainsi, aujourd'hui, les économistes préfèrent un taux d'inflation faible et stable. Un taux d'inflation stable contribuera à stabiliser le marché du travail, à réduire les coûts de production, à stabiliser les taux d'intérêt et à augmenter les opportunités d'expansion pour les entreprises. Ces effets positifs favorisent le développement économique. Par conséquent, les banques centrales ainsi que les gouvernements doivent surveiller de près le taux d'inflation pour contrôler la situation.
+
+En France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajoutent des mesures comme les taux d'intérêt et les impôts policiers. . .pour adapter avec nouvelle context. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne. 
+
 
 ## 2. Quelles catégories sont utilisées pour le représenter ?
 
