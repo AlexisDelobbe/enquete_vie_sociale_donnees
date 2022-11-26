@@ -1,4 +1,6 @@
 # Enquête sur la vie sociale des données
+![concept-inflation-ca0c7b-0@1x](https://user-images.githubusercontent.com/118843717/204086325-4ae1ba6e-109c-4ee6-81e2-a31fb9232706.jpeg)
+
 ## Introduction
 L'inflation, est la perte du pouvoir d'achat de la monnaie qui se traduit par une augmentation générale et durable des prix (Selon Insee). La volatilité du taux d'inflation a un impact direct sur l'économie d'un pays ainsi que sur le monde entier. En 2022, nous avons vu le taux d'inflation augmenter à un niveau record en raison des pandémies ainsi que de la guerre. La hausse du taux d'inflation a exercé une forte pression sur l'économie, qui se remet lentement de la pandémie. Les gouvernements et les banques centrales de tous les pays surveillent de près l'indice d'inflation pour prendre les mesures d'ajustement appropriées.
 
