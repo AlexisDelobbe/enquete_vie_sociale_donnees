@@ -1,4 +1,8 @@
 # Enquête sur la vie sociale des données
+## Introduction
+L'inflation, est la perte du pouvoir d'achat de la monnaie qui se traduit par une augmentation générale et durable des prix (Selon Insee). La volatilité du taux d'inflation a un impact direct sur l'économie d'un pays ainsi que sur le monde entier. En 2022, nous avons vu le taux d'inflation augmenter à un niveau record en raison des pandémies ainsi que de la guerre. La hausse du taux d'inflation a exercé une forte pression sur l'économie, qui se remet lentement de la pandémie. Les gouvernements et les banques centrales de tous les pays surveillent de près l'indice d'inflation pour prendre les mesures d'ajustement appropriées.
+
+On voit que l'indice d'inflation joue un rôle très important dans l'économie. En France, l'inflation est calculée par l'Insee (Institut national de la statistique et des études économiques) . Ce calcul est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
 ## 1. Qui a créé ce jeu de données ? A quelles fins ?
 
