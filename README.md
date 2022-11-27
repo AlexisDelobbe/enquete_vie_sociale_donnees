@@ -82,3 +82,6 @@ Changements de qualité
 Biais de substitution des lieux de vente.
 #### Qualité des données 
 #### L’inflation ne reflète pas le vrai coût de la vie. 
+
+### 5. Quelles réalités ces données/indicateurs sont-ils censés représenter ?
+
