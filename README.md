@@ -99,7 +99,7 @@ L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation 
  
 Ce résultat peut être en partie expliqué par des biais psychologiques, identifiés par la recherche en économie comportementale : 
 
-##### 1.	Les individus se concentrent sur les variations de prix des produits qu’ils achètent fréquemment.
+#### 1.	Les individus se concentrent sur les variations de prix des produits qu’ils achètent fréquemment.
 
  Les individus perçoivent moins bien les variations de prix des produits achetés rarement, tels qu’une automobile, que celles des produits achetés plus fréquemment, tels qu’une baguette de pain. Ainsi, si les prix des produits de cette seconde catégorie croissent plus vite que l’IPC, la population risque de surestimer l’inflation par rapport à son niveau réel.
  
