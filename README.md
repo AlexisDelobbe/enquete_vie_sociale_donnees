@@ -1,4 +1,4 @@
-# Enquête sur la vie sociale des donnéesl'accès 
+# Enquête sur la vie sociale des données: l'IPC
 ![concept-inflation-ca0c7b-0@1x](https://user-images.githubusercontent.com/118843717/204086325-4ae1ba6e-109c-4ee6-81e2-a31fb9232706.jpeg)
 
 ## Introduction
