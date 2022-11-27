@@ -8,6 +8,9 @@ L'inflation est la perte du pouvoir d'achat de la monnaie qui se traduit par une
 L'indice d'inflation joue un rôle très important dans l'économie. Le calcul de l'IPC est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
 
+<details>
+<summary>1. Conception</summary>
+
 ## 1. Conception
 
  
@@ -25,7 +28,12 @@ Les experts nationaux et les organisations internationales (Eurostat, FMI, ONU, 
 
 Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales, etc, pour s’adapter à la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne: on l'appelle l'IPCH (Indice des prix à la consommation harmonisé).
 
-## 2. Q'est ce qui est pris en compte pour calculer l'IPC ?
+</details>
+
+<details>
+<summary>2. Le calcul de l'IPC ?</summary>
+
+## Q'est ce qui est pris en compte pour calculer l'IPC ?
 
 L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris en compte :
 - Les prix sur Internet, le prix des tarifs, les données administratives fournies par tous les organismes
@@ -41,6 +49,11 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - On soustrait 100 (le même indice de référence) entre les deux paniers 
 - On obtient alors un résultat en pourcentage qui correspond à l’inflation
 Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il est négatif, le pays est confronté à une déflation. 
+
+</details>
+
+<details>
+<summary>3. Les usages de l'IPC</summary>
 
 ## 3. Les usages de l'IPC
 
@@ -69,7 +82,12 @@ Les investisseurs utilisent le taux d’inflation pour prédire quel secteur à 
 ### Les ménages
 
 L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation signifie que les prix des biens de la vie quotidienne augmentent alors que les revenus restent inchangés: les ménages paient plus pour le même niveau de vie. Pour les familles à revenu modeste, avec l’inflation, leurs revenus ne sont pas suffisants pour subvenir aux besoins de base. Par exemple, en France, en octobre 2022, l'inflation avait atteint 6.2% sur un an, un niveau inédit depuis 1985. Les ménages les plus modestes consacrent la majeure partie de leurs revenus aux produits alimentaires. Par conséquent, les ménages surveillent également l'indice d'inflation pour planifier leurs dépenses, leurs achats et leur épargne.
- 
+
+</details>
+
+<details>
+<summary>4. Les limites de l'IPC</summary>
+
 ### 4. Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
 
 #### Limites de IPC:
@@ -79,3 +97,5 @@ Changements de qualité
 Biais de substitution des lieux de vente.
 #### Qualité des données 
 #### L’inflation ne reflète pas le vrai coût de la vie. 
+
+</details>
