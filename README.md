@@ -24,10 +24,6 @@ Les experts nationaux et les organisations internationales (Eurostat, FMI, ONU, 
 
 Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales, etc, pour s’adapter à la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne: on l'appelle l'IPCH (Indice des prix à la consommation harmonisé).
 
-
-<details>
-<summary>2. Le calcul de l'IPC</summary>
-
 ## Q'est ce qui est pris en compte pour calculer l'IPC ?
 
 L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris en compte :
@@ -43,11 +39,6 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - Multiplier le résultat obtenu par 100 (l’indice de référence : on considère que le prix de départ, donc du premier panier, était de 100%)
 - On soustrait 100 (le même indice de référence) entre les deux paniers 
 - On obtient alors un résultat en pourcentage qui correspond à l’inflation. Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il est négatif, le pays est confronté à une déflation. 
-
-</details>
-
-<details>
-<summary>3. Les usages de l'IPC</summary>
  
  ## Par qui est utilisé l'IPC et dans quel but? 
 
@@ -80,11 +71,6 @@ En ce moment, les investisseurs surveillent l'indice de l’inflation pour antic
 ### Les ménages
 
 L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation signifie que les prix des biens de la vie quotidienne augmentent alors que les revenus restent inchangés: les ménages paient plus pour le même niveau de vie. Pour les familles à revenu modeste, avec l’inflation, leurs revenus ne sont pas suffisants pour subvenir aux besoins de base. Par exemple, en France, en octobre 2022, l'inflation avait atteint 6.2% sur un an, un niveau inédit depuis 1985. Les ménages les plus modestes consacrent la majeure partie de leurs revenus aux produits alimentaires. Par conséquent, les ménages surveillent également l'indice d'inflation pour planifier leurs dépenses, leurs achats et leur épargne.
-
-</details>
-
-<details>
-<summary>4. Les limites de l'IPC</summary>
 
 ## A quelles limites et critiques l'IPC fait-il face ?
 
@@ -150,10 +136,7 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
  
 ![projet_donnees_de_caisses](https://www.insee.fr/fr/statistiques/graphique/4254225/figure3.png)
  
-</details>
-
-<details> 
- <summary>Bibliographie</summary>
+##Bibliographie
 
 - Bignon, Vincent, et Erwan Gautier. « Les Français et l’inflation en 2022. », Bulletin de la Banque de France, no. 243, 17 novembre 2022. (https://publications.banque-france.fr/les-francais-et-linflation-en-2022)
 - Cusset, Pierre-Yves, Ana Gabriela Prada-Aranguren, et Alain Trannoy. « Les dépenses pré-engagées : près d’un tiers des dépenses des ménages en 2017 », La note d'analyse de France Stratégie, vol. 102, no. 4, 2021, pp. 1-12. 
@@ -162,8 +145,4 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
 - Lequiller, François. « L’indice des prix à la consommation surestime-t-il l’inflation ? ». Economie et Statistique, no. 303, 1997, pp. 3-32.
 - Advisory Commission to Study the Consumer Price Index. Toward a More Accurate Measure of the Cost of Living, 4 décembre 1996. (https://www.ssa.gov/history/reports/boskinrpt.html)
 
- 
- 
- 
- </details>
  
