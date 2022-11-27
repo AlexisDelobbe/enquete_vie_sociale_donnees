@@ -156,6 +156,8 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
 <details> 
  <summary>Bilbliographie</summary>
  
+En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985 - Le Monde avec AFP. En ligne: https://www.lemonde.fr/economie/article/2022/10/28/en-france-l-inflation-a-atteint-6-2-sur-un-an-en-octobre-un-niveau-inedit-depuis-1985_6147680_3234.html  (consulté le 28 octobre 2022).
+ 
  Mettez vos sources ici
  
  </details>
