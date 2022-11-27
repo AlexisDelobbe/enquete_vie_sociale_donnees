@@ -42,8 +42,6 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - On obtient alors un résultat en pourcentage qui correspond à l’inflation
 Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il est négatif, le pays est confronté à une déflation. 
 
-Chaque année, deux types d'IPC sont calculés par l'Insee:
-
 ## 3. Les usages de l'IPC
 
 L'IPC est utile à une multitude d'acteurs qui en font des usages différents.
