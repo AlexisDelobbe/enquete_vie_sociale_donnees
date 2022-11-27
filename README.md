@@ -30,7 +30,7 @@ Les données d'inflation de l'Insee sont des données publiques accessibles à t
 </details>
 
 <details>
-<summary>2. Le calcul de l'IPC ?</summary>
+<summary>2. Le calcul de l'IPC</summary>
 
 ## Q'est ce qui est pris en compte pour calculer l'IPC ?
 
