@@ -49,7 +49,6 @@ Si l’IPC est négatif : déflation.
 ## 3. Quels sont les usages de ce jeu de données ?
 
 ### Le gouvernement
-
 La volatilité de l'inflation a un impact sur l'ensemble de l'économie. Par conséquent, pour assurer la croissance de l'économie, le gouvernement devrait assurer que le taux d'inflation reste faible, stable et prévisible. Si l'inflation est élevée, mais que le gouvernement n'a pas de mesures pour la contrôler, cela conduira à une hyperinflation, le prix des biens augmentera rapidement, l'argent perdra de la valeur, entraînant l'effondrement de l'économie. Par exemple, en raison de la faiblesse des politiques du gouvernement, le Venezuela est confronté à une situation d'hyperinflation qui est la cause d'une crise économique, politique et sociale dans le pays. En 2014, le Venezuela est entré en récession. En 2018, l'inflation a atteint 130 000 %. En 2022, le taux de chômage croît à plus de 36 %. Le revenu des gens ne suffit pas pour acheter les produits de première nécessité. Le taux de criminalité a augmenté. Des dizaines de millions de personnes ont quitté le pays.
 
 ### La banque centrale
@@ -58,10 +57,12 @@ En maîtrisant le taux de l'inflation, la banque centrale maintient la stabilit�
 
 ### Les entreprises
 
-L'inflation affecte toutes les entreprises, mais les petites et moyennes entreprises sont plus fragiles avec l’inflation. Une inflation élevée a entraîné une augmentation du prix des matériaux, de l'énergie et des transports. De plus, le marché est également volatil, ce qui rend impossible pour les entreprises de prévoir les prix et les mouvements du marché. De plus, lorsque l'inflation est élevée, la baisse de la demande réduit également les revenus des entreprises. Les petites et moyennes entreprises devront couper les postes et rétrécir le marché. L'inflation entraîne également une hausse des taux d'intérêt, ce qui rend difficile l'accès des entreprises au capital pour se développer.
-Au contraire, la déflation limite la croissance de l'économie. Quand les prix baissent souvent, les consommateurs auront tendance à accumuler de l'argent pour attendre d'autres rabais. Les entreprises vont limiter la production, limiter les recrutements. Cela augmente le taux de chômage, ce qui affecte le revenu familial. Les revenus baissent, le pouvoir d'achat diminue également, créant un cercle vicieux.
-Par conséquent, les entreprises surveillent également l'indice d'inflation pour avoir un plan d'affaires à long terme.
+L'inflation affecte toutes les entreprises, mais les petites et moyennes entreprises sont encore plus fragiles avec l’inflation. Une inflation élevée va entraîner une augmentation du prix des matériaux, de l'énergie et des transports. De plus, quand le marché est également volatil, les entreprises sont en difficulté pour prévoir les prix et les mouvements du marché. De plus, lorsque l'inflation est élevée, la baisse de la demande réduit également les revenus des entreprises. Les petites et moyennes entreprises devront couper les postes et rétrécir le marché. L'inflation entraîne également une hausse des taux d'intérêt, ce qui rend difficile l'accès des entreprises au capital pour se développer. Au contraire, la déflation limite la croissance de l'économie. Quand les prix baissent souvent, les consommateurs auront tendance à accumuler de l'argent pour attendre d'autres rabais. Les entreprises vont limiter la production, limiter les recrutements. Cela augmente le taux de chômage, ce qui affecte le revenu familial. Les revenus baissent, le pouvoir d'achat diminue également, créant un cercle vicieux. Par conséquent, les entreprises surveillent également l'indice d'inflation pour avoir un plan d'affaires à long terme.
 
+### Les ménages
+
+L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation signifie que les prix des biens de la vie quotidienne augmentent alors que les revenus restent inchangés. Les ménages paieront plus pour le même niveau de vie. Pour les familles à revenu modeste, avec l’inflation, leurs revenus ne sont pas suffisants pour subvenir aux besoins de base. Par conséquent, les ménages surveillent également l'indice d'inflation pour planifier leurs dépenses, leurs achats et leur épargne.
+ 
 ### 4. Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
 
 #### Limites de IPC:
