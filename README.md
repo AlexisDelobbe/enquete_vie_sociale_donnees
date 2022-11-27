@@ -122,6 +122,8 @@ Néanmoins, les biais psychologiques ne suffisent pas à expliquer l’écart co
  Or, la part de ce type de dépenses dans les dépenses totales des ménages a fortement augmenté, de 12,5% au début des années 1960 à 32% en 2017, dont 22% pour le logement seulement. De plus, ces dépenses sont plus importantes encore parmi les ménages les plus modestes. En effet, en 2017, elles représentaient 41% des dépenses totales des ménages pauvres, c’est-à-dire avec un revenu par unité de consommation inférieur au taux de pauvreté, en comparaison de 28% pour les ménages aisés, c’est-à-dire avec des ressources par unité de consommation dans les 25% les plus élevés.
 
 De plus, la composition de ces dépenses pré-engagées varie suivant la catégorie socio-économique, puisque pour les ménages pauvres, les plus importantes sont les loyers et les charges, à hauteur de 24% des dépenses totales, alors que pour les ménages aisés, les plus importantes sont les remboursements de prêts immobiliers, à hauteur de 10% des dépenses totales.
+ 
+![depenses_pre_engagees](https://www.cairn.info/loadimg.php?FILE=LNA/LNA_102/LNA_102_0001/LNA_idPAS_D_ISBN_pu2021-04s_sa01_art01_img002.jpg)
 
 Que l’inflation soit perçue comme supérieure au niveau indiqué par l’IPC peut donc s’expliquer par l’importance croissante des dépenses pré-engagées, réduisant ainsi la part des dépenses dites « arbitrables » dans les dépenses totales des ménages. C’est pourquoi une des critiques adressées envers l’IPC est qu’il ne prend pas en compte ce phénomène et représente donc mal la réalité des prix auxquels la population fait face, en ignorant le fait qu’une part croissante des dépenses aillent vers le paiement de contrats difficilement renégociables.
 
