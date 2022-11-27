@@ -10,9 +10,6 @@ L'indice d'inflation joue un rôle très important dans l'économie. Le calcul d
 
 <details>
 <summary>1. Conception</summary>
-
-## 1. Conception
-
  
 L'Institut national de la statistique et des études économiques est le bureau national des statistiques de France. L'INSEE a été créé par la loi de finances du 27 avril 1946. L’Insee est une direction générale du ministère de l'Économie et des Finances: elle collecte, analyse et diffuse des informations sur l’économie et la société française. Eurostat considère l'INSEE comme un organisme indépendant parce qu’il conduit ses travaux en indépendance professionnelle.
 
@@ -55,8 +52,6 @@ Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il 
 <details>
 <summary>3. Les usages de l'IPC</summary>
 
-## 3. Les usages de l'IPC
-
 L'IPC est utile à une multitude d'acteurs qui en font des usages différents.
 
 ### Le gouvernement
@@ -88,7 +83,7 @@ L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation 
 <details>
 <summary>4. Les limites de l'IPC</summary>
 
-### 4. Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
+### Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
 
 #### Limites de IPC:
 Biais de substitution
