@@ -90,7 +90,7 @@ L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation 
 <details>
 <summary>4. Les limites de l'IPC</summary>
 
-## Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
+## A quelles limites et critiques l'IPC fait-il face ?
 
 ### Une surestimation de l'inflation par la population.
 
@@ -166,6 +166,8 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
 - Lequiller, François. « L’indice des prix à la consommation surestime-t-il l’inflation ? ». Economie et Statistique, no. 303, 1997, pp. 3-32.
 - Advisory Commission to Study the Consumer Price Index. Toward a More Accurate Measure of the Cost of Living, 4 décembre 1996. (https://www.ssa.gov/history/reports/boskinrpt.html)
 
+ 
+ 
  
  </details>
  
