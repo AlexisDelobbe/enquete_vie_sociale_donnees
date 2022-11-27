@@ -7,11 +7,8 @@ L'inflation est la perte du pouvoir d'achat de la monnaie qui se traduit par une
 
 L'indice d'inflation joue donc un rôle très important dans l'économie. Le calcul de l'IPC est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
-
-<details>
-<summary>1. Conception</summary>
  
- ## Origines et conception de l'IPC
+## Origines et conception de l'IPC
  
 L'Institut national de la statistique et des études économiques est le bureau national des statistiques de France. L'INSEE a été créé par la loi de finances du 27 avril 1946. L’Insee est une direction générale du ministère de l'Économie et des Finances: elle collecte, analyse et diffuse des informations sur l’économie et la société française. Eurostat considère l'INSEE comme un organisme indépendant parce qu’il conduit ses travaux en indépendance professionnelle.
 
@@ -27,7 +24,6 @@ Les experts nationaux et les organisations internationales (Eurostat, FMI, ONU, 
 
 Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales, etc, pour s’adapter à la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne: on l'appelle l'IPCH (Indice des prix à la consommation harmonisé).
 
-</details>
 
 <details>
 <summary>2. Le calcul de l'IPC</summary>
