@@ -13,6 +13,8 @@ On voit que l'indice d'inflation joue un rôle très important dans l'économie.
  
 L'Institut national de la statistique et des études économiques est le bureau national des statistiques de France. L'INSEE a été créé par la loi de finances du 27 avril 1946. L’Insee est une direction générale du ministère de l'Économie et des Finances. Il collecte, analyse et diffuse des informations sur l’économie et la société française. Eurostat considère l'INSEE comme un organisme indépendant parce qu’il conduit ses travaux en indépendance professionnelle.
 
+![insee-auto-entrepreneur](https://user-images.githubusercontent.com/118843717/204126487-c9b9ee52-aacd-486a-b264-f35235baac08.jpg)
+
 L'une des tâches importantes de l'Insee est de fournir l’indice d'inflation en France au travers de l'indice des prix à la consommation (IPC). Cet indice est de première importance, car il permet de mesurer l’inflation sur une période donnée, généralement une année.
 
 En économie, l'inflation est une situation de hausse générale des prix des biens et services. Par conséquent, la désinflation est une situation où la croissance des prix est réduite. La mesure commune de l'inflation est le taux d'inflation, c'est-à-dire la variation en pourcentage annualisée de l' indice général des prix.
