@@ -5,7 +5,7 @@
 
 L'inflation est la perte du pouvoir d'achat de la monnaie qui se traduit par une augmentation générale et durable des prix (Selon Insee). La volatilité du taux d'inflation a un impact direct sur l'économie d'un pays ainsi que sur le monde entier. En 2022, l’économie mondiale est confrontée à une forte inflation en raison de la pandémie ainsi que la pénurie de l’énergie dûe à la guerre en Ukraine. L'inflation en France a atteint un record jamais vu depuis 1985 (6,2% sur un an en octobre). La hausse du taux d'inflation a exercé une forte pression sur l'économie, qui se remet lentement après la pandémie. Les gouvernements et les banques centrales de tous les pays surveillent de près l'indice d'inflation pour prendre les mesures d'ajustement appropriées.
 
-On voit que l'indice d'inflation joue un rôle très important dans l'économie. Le calcul de l'IPC est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
+L'indice d'inflation joue un rôle très important dans l'économie. Le calcul de l'IPC est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
 
 ## 1. Conception
@@ -15,15 +15,15 @@ L'Institut national de la statistique et des études économiques est le bureau 
 
 ![insee-auto-entrepreneur](https://user-images.githubusercontent.com/118843717/204126487-c9b9ee52-aacd-486a-b264-f35235baac08.jpg)
 
-L'une des tâches importantes de l'Insee est de fournir l’indice d'inflation en France au travers de l'indice des prix à la consommation (IPC). L'IPC reflète l'évolution moyenne des prix des produits consommés par les ménages. Le taux d'inflation est de première importance, car il permet de mesurer l’inflation sur une période donnée, généralement une année. En économie, l'inflation est une situation de hausse générale des prix des biens et services. Une hausse du taux d'inflation, en particulier l'hyperinflation, provoque des effets négatifs conduisant à une crise économique. Au contraire, la déflation est une situation où la croissance des prix est réduite, ce qui affecte la demande de biens et de services, entraînant une situation difficile pour la croissance de l'économie. La mesure commune de l'inflation est le taux d'inflation, c'est-à-dire la variation en pourcentage annualisée de l'indice général des prix.
+L'une des tâches importantes de l'Insee est de fournir l’indice d'inflation en France au travers de l'indice des prix à la consommation (IPC). Cet indice est de première importance, car il permet de mesurer l’inflation sur une période donnée, généralement une année: il reflète l'évolution moyenne des prix des produits consommés par les ménages. En économie, l'inflation est une situation de hausse générale des prix des biens et services. Une hausse du taux d'inflation, en particulier l'hyperinflation, provoque des effets négatifs conduisant à une crise économique. Au contraire, la déflation est une situation où la croissance des prix est réduite, ce qui affecte la demande de biens et de services, entraînant une situation difficile pour la croissance de l'économie. La mesure commune de l'inflation est le taux d'inflation, c'est-à-dire la variation en pourcentage annualisée de l'indice général des prix.
 
 Ainsi, aujourd'hui, les économistes préfèrent un taux d'inflation faible et stable. Un taux d'inflation stable contribuera à stabiliser le marché du travail, à réduire les coûts de production, à stabiliser les taux d'intérêt et à augmenter les opportunités d'expansion pour les entreprises. Ces effets positifs favorisent le développement économique. Par conséquent, les banques centrales ainsi que les gouvernements doivent surveiller de près le taux d'inflation pour contrôler la situation.
 
-L'Insee a créé la base de données de l'IPC en 1914. La couverture de l'IPC s'est ajustée à la fois géographiquement et démographiquement au fil du temps. La base de données de L'IPC 2015 est la 8e génération de l'indice.
+L'Insee a créé la base de données de l'IPC en 1914. La couverture de l'IPC s'est ajustée à la fois géographiquement et démographiquement au fil du temps: aujourd'hui il couvre l'ensemble du territoire français en comptant tous les outre mer excepté Mayotte. La base de données de L'IPC base 2015 est la 8e génération de l'indice, il est entré en service en 2016.
 
 Les experts nationaux et les organisations internationales (Eurostat, FMI, ONU, BIT) sont ceux qui recherchent et décident de la méthode de calcul de l'IPC. Ce calcul est très précis, réglementé et partagé avec les autres pays européens.
 
-Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales, etc, pour s’adapter à la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne.
+Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales, etc, pour s’adapter à la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne: on l'appelle l'IPCH (Indice des prix à la consommation harmonisé).
 
 ## 2. Q'est ce qui est pris en compte pour calculer l'IPC ?
 
@@ -40,10 +40,9 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - Multiplier le résultat obtenu par 100 (l’indice de référence : on considère que le prix de départ, donc du premier panier, était de 100%)
 - On soustrait 100 (le même indice de référence) entre les deux paniers 
 - On obtient alors un résultat en pourcentage qui correspond à l’inflation
+Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il est négatif, le pays est confronté à une déflation. 
 
-Si l’IPC est négatif : inflation.
-
-Si l’IPC est négatif : déflation.
+Chaque année, deux types d'IPC sont calculés par l'Insee:
 
 ## 3. Les usages de l'IPC
 
