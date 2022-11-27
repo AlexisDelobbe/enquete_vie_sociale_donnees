@@ -24,7 +24,7 @@ Les experts nationaux et les organisations internationales (Eurostat, FMI, ONU, 
 
 Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales, etc, pour s’adapter à la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne: on l'appelle l'IPCH (Indice des prix à la consommation harmonisé).
 
-## Q'est ce qui est pris en compte pour calculer l'IPC ?
+## Comment l'IPC est-il calculé ?
 
 L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris en compte :
 - Les prix sur Internet, le prix des tarifs, les données administratives fournies par tous les organismes
