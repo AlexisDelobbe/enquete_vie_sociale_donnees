@@ -46,7 +46,7 @@ Si l’IPC est négatif : inflation.
 
 Si l’IPC est négatif : déflation.
 
-## 3. Quels sont les usages de ce jeu de données ?
+## 3. Les usages des données
 
 ### Le gouvernement
 La volatilité de l'inflation a un impact sur l'ensemble de l'économie. Par conséquent, pour assurer la croissance de l'économie, le gouvernement devrait assurer que le taux d'inflation reste faible, stable et prévisible. Si l'inflation est élevée, mais que le gouvernement n'a pas de mesures pour la contrôler, cela conduira à une hyperinflation, le prix des biens augmentera rapidement, l'argent perdra de la valeur, entraînant l'effondrement de l'économie. Par exemple, en raison de la faiblesse des politiques du gouvernement, le Venezuela est confronté à une situation d'hyperinflation qui est la cause d'une crise économique, politique et sociale dans le pays. En 2014, le Venezuela est entré en récession. En 2018, l'inflation a atteint 130 000 %. En 2022, le taux de chômage croît à plus de 36 %. Le revenu des gens ne suffit pas pour acheter les produits de première nécessité. Le taux de criminalité a augmenté. Des dizaines de millions de personnes ont quitté le pays.
