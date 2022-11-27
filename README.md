@@ -38,6 +38,8 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - Les prix sur Internet, le prix des tarifs, les données administratives fournies par tous les organismes
 - Des collectes de données organisées par des enquêteurs dans tous des points de vente de toute sorte et à travers toute la France
 - Les données recueillies en caisse par les grandes enseignes de distribution
+ 
+  [![enquete_vie_sociale_donnees](https://img.youtube.com/vi/3a3F2KqAuSQ/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=3a3F2KqAuSQ)
 
 ### Modes de calcul et conception de l'IPC.
 
