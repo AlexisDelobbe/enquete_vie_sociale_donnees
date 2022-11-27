@@ -136,7 +136,7 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
  
 ![projet_donnees_de_caisses](https://www.insee.fr/fr/statistiques/graphique/4254225/figure3.png)
  
-##Bibliographie
+## Bibliographie
 
 - Bignon, Vincent, et Erwan Gautier. « Les Français et l’inflation en 2022. », Bulletin de la Banque de France, no. 243, 17 novembre 2022. (https://publications.banque-france.fr/les-francais-et-linflation-en-2022)
 - Cusset, Pierre-Yves, Ana Gabriela Prada-Aranguren, et Alain Trannoy. « Les dépenses pré-engagées : près d’un tiers des dépenses des ménages en 2017 », La note d'analyse de France Stratégie, vol. 102, no. 4, 2021, pp. 1-12. 
