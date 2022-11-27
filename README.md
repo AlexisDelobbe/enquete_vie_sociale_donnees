@@ -155,10 +155,16 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
 
 <details> 
  <summary>Bilbliographie</summary>
+
+- Bignon, Vincent, et Erwan Gautier. « Les Français et l’inflation en 2022. » Bulletin de la Banque de France, no. 243, 17 novembre 2022. (https://publications.banque-france.fr/les-francais-et-linflation-en-2022)
+- Cusset, Pierre-Yves, Ana Gabriela Prada-Aranguren, et Alain Trannoy. « Les dépenses pré-engagées : près d’un tiers des dépenses des ménages en 2017 », La note d'analyse de France Stratégie, vol. 102, no. 4, 2021, pp. 1-12. 
+- Jany-Catrice, Florence. « Derrière les chiffres de l’inflation », La vie des idées, 11 mai 2021. (https://laviedesidees.fr/Derriere-les-chiffres-de-l-inflation.html)
+- Leclair, Marie. « Utiliser les données de caisses pour le calcul de l’indice des prix à la consommation », 19 décembre 2019. (https://www.insee.fr/fr/information/4254225?%20sommaire=4254170)
+- Lequiller, François. « L’indice des prix à la consommation surestime-t-il l’inflation ? ». Economie et Statistique, no. 303, 1997, pp. 3-32.
+- Advisory Commission to Study the Consumer Price Index. Toward a More Accurate Measure of the Cost of Living, 4 décembre 1996. (https://www.ssa.gov/history/reports/boskinrpt.html)
+
  
-En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985 - Le Monde avec AFP. En ligne: https://www.lemonde.fr/economie/article/2022/10/28/en-france-l-inflation-a-atteint-6-2-sur-un-an-en-octobre-un-niveau-inedit-depuis-1985_6147680_3234.html  (consulté le 28 octobre 2022).
  
- Mettez vos sources ici
  
  </details>
  
