@@ -53,6 +53,8 @@ Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il 
 
 <details>
 <summary>3. Les usages de l'IPC</summary>
+ 
+ ## Par qui est utilisé l'IPC et dans quel but? 
 
 L'IPC est utile à une multitude d'acteurs qui en font des usages différents.
 
