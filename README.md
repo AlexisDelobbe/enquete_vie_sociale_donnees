@@ -87,7 +87,7 @@ L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation 
 <details>
 <summary>4. Les limites de l'IPC</summary>
 
-### Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
+## Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
 
 #### Limites de IPC:
 Biais de substitution
