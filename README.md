@@ -68,6 +68,7 @@ Les investisseurs utilisent le taux d’inflation pour prédire quel secteur à 
 L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation signifie que les prix des biens de la vie quotidienne augmentent alors que les revenus restent inchangés. Les ménages paieront plus pour le même niveau de vie. Pour les familles à revenu modeste, avec l’inflation, leurs revenus ne sont pas suffisants pour subvenir aux besoins de base. Par exemple, en France, en octobre 2022, l'inflation avait atteint 6.2% sur un an, un niveau inédit depuis 1985. Les ménages les plus modestes consacrent la majeure partie de leurs revenus aux produits alimentaires. Par conséquent, les ménages surveillent également l'indice d'inflation pour planifier leurs dépenses, leurs achats et leur épargne.
  
 ### 4. Quelles sont les limites ou les critiques rencontrées par le jeu de données ?
+Quelles réalités ces données/indicateurs sont-ils censés représenter ?
 
 #### Limites de IPC:
 Biais de substitution
