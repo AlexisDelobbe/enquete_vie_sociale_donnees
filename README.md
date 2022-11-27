@@ -23,8 +23,7 @@ Pour mesurer l'inflation, l'Insee utilise principalement l'indice des prix à la
 
 Les experts nationaux et les organisations internationales (Eurostat, FMI, ONU, BIT) sont ceux qui recherchent et décident de la méthode de calcul de l'IPC. Ce calcul est très précis, réglementé et partagé avec les autres pays européens.
 
-Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajoutent des mesures comme les taux d'intérêt et les impôts policiers. . .pour adapter avec la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne.
-
+Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales. . .pour s’adapter avec la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne.
 
 ## 2. Quelles catégories sont utilisées pour le représenter ?
 
