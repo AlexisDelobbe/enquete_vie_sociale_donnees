@@ -31,6 +31,10 @@ Les données d'inflation de l'Insee sont des données publiques accessibles à t
 
 <details>
 <summary>2. Le calcul de l'IPC</summary>
+ 
+ ## Comment mesure-t-on l'inflation ?
+ 
+ Il existe différentes manières de mesurer l'inflation telles que le déflateur de la consommation, le déflateur du PIB. . .L'insee a choisi d'utiliser l'indice des prix à la consommation (IPC) comme principal outil de mesure de l'inflation. L'insee diffuse une prévision d'inflation le dernier jour du mois et effectue le calcul définitif le 15 du mois suivant.
 
 ## Q'est ce qui est pris en compte pour calculer l'IPC ?
 
