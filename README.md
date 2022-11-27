@@ -98,3 +98,11 @@ Biais de substitution des lieux de vente.
 #### L’inflation ne reflète pas le vrai coût de la vie. 
 
 </details>
+
+<details> 
+ <summary>Bilbliographie</summary>
+ 
+ Mettez vos sources ici
+ 
+ </details>
+ 
