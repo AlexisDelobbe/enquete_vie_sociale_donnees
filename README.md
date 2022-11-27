@@ -81,7 +81,6 @@ En ce moment, les investisseurs surveillent l'indice de l’inflation pour antic
 
 À son tour dans la zone euro, Makhlouf, gouverneur de la Banque centrale d'Irlande pense que ses hausses de taux pourraient ralentir en 2023, si oui ce sera une bonne nouvelle pour les investisseurs.
 
-
 ### Les ménages
 
 L'inflation affecte aussi directement la vie des gens. La hausse de l'inflation signifie que les prix des biens de la vie quotidienne augmentent alors que les revenus restent inchangés: les ménages paient plus pour le même niveau de vie. Pour les familles à revenu modeste, avec l’inflation, leurs revenus ne sont pas suffisants pour subvenir aux besoins de base. Par exemple, en France, en octobre 2022, l'inflation avait atteint 6.2% sur un an, un niveau inédit depuis 1985. Les ménages les plus modestes consacrent la majeure partie de leurs revenus aux produits alimentaires. Par conséquent, les ménages surveillent également l'indice d'inflation pour planifier leurs dépenses, leurs achats et leur épargne.
