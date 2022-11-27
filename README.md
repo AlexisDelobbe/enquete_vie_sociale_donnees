@@ -5,13 +5,13 @@
 
 L'inflation est la perte du pouvoir d'achat de la monnaie qui se traduit par une augmentation générale et durable des prix (Selon Insee). La volatilité du taux d'inflation a un impact direct sur l'économie d'un pays ainsi que sur le monde entier. En 2022, l’économie mondiale est confrontée à une forte inflation en raison de la pandémie ainsi que la pénurie de l’énergie dûe à la guerre en Ukraine. L'inflation en France a atteint un record jamais vu depuis 1985 (6,2% sur un an en octobre). La hausse du taux d'inflation a exercé une forte pression sur l'économie, qui se remet lentement après la pandémie. Les gouvernements et les banques centrales de tous les pays surveillent de près l'indice d'inflation pour prendre les mesures d'ajustement appropriées.
 
-On voit que l'indice d'inflation joue un rôle très important dans l'économie. En France, l'inflation est calculée par l'Insee (Institut national de la statistique et des études économiques) . Ce calcul est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
+On voit que l'indice d'inflation joue un rôle très important dans l'économie. Le calcul de l'IPC est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
 
 ## 1. Conception
 
  
-L'Institut national de la statistique et des études économiques est le bureau national des statistiques de France. L'INSEE a été créé par la loi de finances du 27 avril 1946. L’Insee est une direction générale du ministère de l'Économie et des Finances. Il collecte, analyse et diffuse des informations sur l’économie et la société française. Eurostat considère l'INSEE comme un organisme indépendant parce qu’il conduit ses travaux en indépendance professionnelle.
+L'Institut national de la statistique et des études économiques est le bureau national des statistiques de France. L'INSEE a été créé par la loi de finances du 27 avril 1946. L’Insee est une direction générale du ministère de l'Économie et des Finances: elle collecte, analyse et diffuse des informations sur l’économie et la société française. Eurostat considère l'INSEE comme un organisme indépendant parce qu’il conduit ses travaux en indépendance professionnelle.
 
 ![insee-auto-entrepreneur](https://user-images.githubusercontent.com/118843717/204126487-c9b9ee52-aacd-486a-b264-f35235baac08.jpg)
 
@@ -23,7 +23,7 @@ L'Insee a créé la base de données de l'IPC en 1914. La couverture de l'IPC s'
 
 Les experts nationaux et les organisations internationales (Eurostat, FMI, ONU, BIT) sont ceux qui recherchent et décident de la méthode de calcul de l'IPC. Ce calcul est très précis, réglementé et partagé avec les autres pays européens.
 
-Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales. . .pour s’adapter avec la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne.
+Les données d'inflation de l'Insee sont des données publiques accessibles à tous. Ces données aident les ménages, ainsi que les économistes, les banques et les gouvernements à évaluer la situation actuelle de l'inflation. Surtout, en France, la banque centrale et le gouvernement utilisent le taux d'inflation de l'Insee pour évaluer la situation économique du pays. À partir de là, ils ajustent des mesures comme les taux d'intérêt et les politiques fiscales, etc, pour s’adapter à la conjoncture économique. Eurostat utilise les statistiques de l'INSEE en combinaison avec celles d'autres agences statistiques nationales pour compiler des statistiques comparables pour l'ensemble de l'Union européenne.
 
 ## 2. Q'est ce qui est pris en compte pour calculer l'IPC ?
 
@@ -82,6 +82,3 @@ Changements de qualité
 Biais de substitution des lieux de vente.
 #### Qualité des données 
 #### L’inflation ne reflète pas le vrai coût de la vie. 
-
-### 5. Quelles réalités ces données/indicateurs sont-ils censés représenter ?
-
