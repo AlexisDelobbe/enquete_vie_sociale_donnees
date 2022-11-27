@@ -167,7 +167,5 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
 - Advisory Commission to Study the Consumer Price Index. Toward a More Accurate Measure of the Cost of Living, 4 décembre 1996. (https://www.ssa.gov/history/reports/boskinrpt.html)
 
  
- 
- 
  </details>
  
