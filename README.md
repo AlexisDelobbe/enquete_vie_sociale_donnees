@@ -154,9 +154,9 @@ L’Insee a pu remédier à ce problème avec l’utilisation des données de ca
 </details>
 
 <details> 
- <summary>Bilbliographie</summary>
+ <summary>Bibliographie</summary>
 
-- Bignon, Vincent, et Erwan Gautier. « Les Français et l’inflation en 2022. » Bulletin de la Banque de France, no. 243, 17 novembre 2022. (https://publications.banque-france.fr/les-francais-et-linflation-en-2022)
+- Bignon, Vincent, et Erwan Gautier. « Les Français et l’inflation en 2022. », Bulletin de la Banque de France, no. 243, 17 novembre 2022. (https://publications.banque-france.fr/les-francais-et-linflation-en-2022)
 - Cusset, Pierre-Yves, Ana Gabriela Prada-Aranguren, et Alain Trannoy. « Les dépenses pré-engagées : près d’un tiers des dépenses des ménages en 2017 », La note d'analyse de France Stratégie, vol. 102, no. 4, 2021, pp. 1-12. 
 - Jany-Catrice, Florence. « Derrière les chiffres de l’inflation », La vie des idées, 11 mai 2021. (https://laviedesidees.fr/Derriere-les-chiffres-de-l-inflation.html)
 - Leclair, Marie. « Utiliser les données de caisses pour le calcul de l’indice des prix à la consommation », 19 décembre 2019. (https://www.insee.fr/fr/information/4254225?%20sommaire=4254170)
