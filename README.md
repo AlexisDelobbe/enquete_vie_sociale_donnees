@@ -122,7 +122,7 @@ C’est une faiblesse de l’IPC qui ne peut être entièrement résolue. En eff
 
 Il est néanmoins possible de réduire les biais de substitution en réactualisant fréquemment la pondération. C’est sur cette base que François Quiller, économiste-statisticien à l’Insee, tempère les applications du rapport Boskin de 1996 à la France. En effet, ce dernier estimait que les biais de substitution menaient à une surestimation de l’inflation par l’IPC à hauteur de 0,5% par an aux Etats-Unis. Or, dans ce pays, les pondérations utilisées dans le calcul de l’IPC se basaient encore sur les données de 1982-1984, alors qu’en France les données utilisées ne datent jamais de plus de deux ans. C’est pourquoi François Quiller considère que les biais de substitution ne mènent qu’à une surestimation de l’inflation de 0,1 à 0,25% en France.
 
- #### 2. La qualité des produits et l'innovation
+#### 2. La qualité des produits et l'innovation
  
  Une deuxième façon dont l’inflation est surestimée est par la mauvaise représentation des variations de qualité. En effet, du point de vue de l’utilité des individus, le pouvoir d’achat ne diminue pas si le prix d’un produit augmente de 10% alors que sa qualité augmente de 10% auussi. Or, les méthodes de calcul de l’IPC ne peuvent que difficilement évaluer ces variations. Ce problème est exacerbé face à l'apparition de nouveaux produits, qui ne sont pas de simples améliorations incrémentales des produits, avec par exemple la transition des téléphones fixes aux téléphones mobiles à la fin des années 1990.
  
