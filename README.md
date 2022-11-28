@@ -26,9 +26,10 @@ L'indice d'inflation joue donc un rôle très important dans l'économie. Le cal
 - Advisory Commission to Study the Consumer Price Index. Toward a More Accurate Measure of the Cost of Living, 4 décembre 1996. (https://www.ssa.gov/history/reports/boskinrpt.html)
 - www.service-public.fr. "Qu’est-ce que l’indice des prix à la consommation ?". 4 Janvier 2022. [online] Available at: https://www.service-public.fr/particuliers/actualites/A15404 
 - Insee. "Produits associés − Indice des prix à la consommation | Insee". 27 Novembre 2022. [online] www.insee.fr. Available at: https://www.insee.fr/fr/metadonnees/source/indicateur/p1653/produits 
-- Le Monde avec AFP. En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985, En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985. (https://www.lemonde.fr/economie/article/2022/10/28/en-france-l-inflation-a-atteint-6-2-sur-un-an-en-octobre-un-niveau-inedit-depuis-1985_6147680_3234.html)
-- Le Monde avec AFP. Au Venezuela, l’inflation a été de 130 060 % en 2018, 29 mai 2019 (https://www.lemonde.fr/international/article/2019/05/29/venezuela-l-inflation-a-ete-de-130-060-en-2018_5469091_3210.html)
-- L'Insee - Un peu d'histoire, 25 octobre, 2021 (https://www.insee.fr/fr/information/1300622)
-- L'essentiel sur... l'inflation, 25 octobre, 2022 (https://www.insee.fr/fr/statistiques/4268033#onglet-3)
+- Le Monde avec AFP. En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985, En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985. 28 Octobre 2022 (https://www.lemonde.fr/economie/article/2022/10/28/en-france-l-inflation-a-atteint-6-2-sur-un-an-en-octobre-un-niveau-inedit-depuis-1985_6147680_3234.html)
+- Le Monde avec AFP. Au Venezuela, l’inflation a été de 130 060 % en 2018, 29 Mai 2019 (https://www.lemonde.fr/international/article/2019/05/29/venezuela-l-inflation-a-ete-de-130-060-en-2018_5469091_3210.html)
+- L'Insee - Un peu d'histoire. 25 Octobre, 2021 (https://www.insee.fr/fr/information/1300622)
+- L'Insee - L'essentiel sur... l'inflation. 25 Octobre, 2022 (https://www.insee.fr/fr/statistiques/4268033#onglet-3)
+- Stratégie monétaire et inflation en Europe : quoi de neuf ? 12 Octobre 2021 (https://www.banque-france.fr/intervention/strategie-monetaire-et-inflation-en-europe-quoi-de-neuf)
 
  
