@@ -15,4 +15,4 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - On obtient alors un résultat en pourcentage qui correspond à l’inflation. Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il est négatif, le pays est confronté à une déflation. 
 
 
-[Comment l'IPC est-il calculé ?]((https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/calcul_IPC.html)
+[Comment l'IPC est-il calculé ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/calcul_IPC.html)
