@@ -1,12 +1,14 @@
 # Enquête sur la vie sociale des données: l'IPC
 ![concept-inflation-ca0c7b-0@1x](https://user-images.githubusercontent.com/118843717/204086325-4ae1ba6e-109c-4ee6-81e2-a31fb9232706.jpeg)
 
+
 ## Introduction
 
 L'inflation est la perte du pouvoir d'achat de la monnaie qui se traduit par une augmentation générale et durable des prix (selon l'Insee). La volatilité du taux d'inflation a un impact direct sur l'économie d'un pays ainsi que sur le monde entier. En 2022, l’économie mondiale est confrontée à une forte inflation en raison de la pandémie ainsi que la pénurie de l’énergie dûe à la guerre en Ukraine. L'inflation en France a atteint un record jamais vu depuis 1985 (6,2% sur un an en octobre). La hausse du taux d'inflation a exercé une forte pression sur l'économie, qui se remet lentement après la pandémie. Les gouvernements et les banques centrales de tous les pays surveillent de près l'indice d'inflation pour prendre les mesures d'ajustement appropriées.
 
 L'indice d'inflation joue donc un rôle très important dans l'économie. Le calcul de l'IPC est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
+[Origines et conception de l'IPC](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/origines_et_conception.html)
  
 ## Origines et conception de l'IPC
  
