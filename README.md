@@ -30,6 +30,6 @@ L'indice d'inflation joue donc un rôle très important dans l'économie. Le cal
 - Le Monde avec AFP. Au Venezuela, l’inflation a été de 130 060 % en 2018, 29 Mai 2019 (https://www.lemonde.fr/international/article/2019/05/29/venezuela-l-inflation-a-ete-de-130-060-en-2018_5469091_3210.html)
 - L'Insee - Un peu d'histoire. 25 Octobre, 2021 (https://www.insee.fr/fr/information/1300622)
 - L'Insee - L'essentiel sur... l'inflation. 25 Octobre, 2022 (https://www.insee.fr/fr/statistiques/4268033#onglet-3)
-- Stratégie monétaire et inflation en Europe : quoi de neuf ? 12 Octobre 2021 (https://www.banque-france.fr/intervention/strategie-monetaire-et-inflation-en-europe-quoi-de-neuf)
+- La banque France - Stratégie monétaire et inflation en Europe : quoi de neuf ? 12 Octobre 2021 (https://www.banque-france.fr/intervention/strategie-monetaire-et-inflation-en-europe-quoi-de-neuf)
 
  
