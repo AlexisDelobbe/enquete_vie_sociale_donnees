@@ -9,6 +9,12 @@ L'inflation est la perte du pouvoir d'achat de la monnaie qui se traduit par une
 L'indice d'inflation joue donc un rôle très important dans l'économie. Le calcul de l'IPC est très complexe et nécessite une grande quantité de données. La méthode de calcul ainsi que la qualité des données sont des facteurs importants qui déterminent l'exactitude du taux d'inflation. Nous avons donc décidé de faire des recherches sur la base de données de l'Insee pour mieux comprendre l'indice d'inflation.
 
 [Origines et conception de l'IPC](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/origines_et_conception.html)
+
+[Comment l'IPC est-il calculé ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/calcul_IPC.md)
+
+[Par qui est utilisé l'IPC et dans quel but ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/utilisation_IPC.md)
+
+[A quelles limites et critiques l'IPC fait-il face ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/limites_IPC.md)
  
 ## Origines et conception de l'IPC
  
