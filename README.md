@@ -24,5 +24,6 @@ L'indice d'inflation joue donc un rôle très important dans l'économie. Le cal
 - Leclair, Marie. « Utiliser les données de caisses pour le calcul de l’indice des prix à la consommation », 19 décembre 2019. (https://www.insee.fr/fr/information/4254225?%20sommaire=4254170)
 - Lequiller, François. « L’indice des prix à la consommation surestime-t-il l’inflation ? ». Economie et Statistique, no. 303, 1997, pp. 3-32.
 - Advisory Commission to Study the Consumer Price Index. Toward a More Accurate Measure of the Cost of Living, 4 décembre 1996. (https://www.ssa.gov/history/reports/boskinrpt.html)
+- www.service-public.fr. "Qu’est-ce que l’indice des prix à la consommation ?". 4 Janvier 2022. [online] Available at: https://www.service-public.fr/particuliers/actualites/A15404 
 
  
