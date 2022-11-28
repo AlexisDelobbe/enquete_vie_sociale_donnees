@@ -10,11 +10,11 @@ L'indice d'inflation joue donc un rôle très important dans l'économie. Le cal
 
 [Origines et conception de l'IPC](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/origines_et_conception.html)
 
-[Comment l'IPC est-il calculé ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/calcul_IPC.md)
+[Comment l'IPC est-il calculé ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/calcul_IPC.html)
 
-[Par qui est utilisé l'IPC et dans quel but ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/utilisation_IPC.md)
+[Par qui est utilisé l'IPC et dans quel but ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/utilisation_IPC.html)
 
-[A quelles limites et critiques l'IPC fait-il face ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/limites_IPC.md)
+[A quelles limites et critiques l'IPC fait-il face ?](https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/limites_IPC.html)
  
 ## Origines et conception de l'IPC
  
