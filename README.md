@@ -40,7 +40,7 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - On soustrait 100 (le même indice de référence) entre les deux paniers 
 - On obtient alors un résultat en pourcentage qui correspond à l’inflation. Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il est négatif, le pays est confronté à une déflation. 
  
- ## Par qui est utilisé l'IPC et dans quel but? 
+## Par qui est utilisé l'IPC et dans quel but? 
 
 L'IPC est utile à une multitude d'acteurs qui en font des usages différents.
 
@@ -128,7 +128,7 @@ Il est néanmoins possible de réduire les biais de substitution en réactualisa
  
 Les variations de qualité peuvent être partiellement prises en compte par différentes méthodes statistiques, telles que le chaînage qui consiste à considérer que lorsqu’un nouveau produit en remplace un ancien à un prix plus élevé, l’écart de prix doit correspondre à l’écart de qualité, mais ce type de méthodes n’est qu’une approximation des variations de qualité. De plus, ces méthodes sont particulièrement mal adaptées à la prise en compte de produits véritablement nouveaux, puisque l'écart de prix reflète dans ces cas tant une amélioration de la qualité que le coût de développement de nouvelles technologies avant qu'elles se généralisent et que leur prix baisse grâce aux rendements d'échelle.
  
- ### La qualité et la représentativité des données
+### La qualité et la représentativité des données
  
  Historiquement, les données utilisées pour calculer l’IPC étaient recueillies par des enquêteurs au sein de commerces situés dans des communes de plus de 2000 habitants. Or, cette méthode exclue donc de l’IPC les prix dans les communes sous ce seuil, alors même que 20,8% de la population y habitait en 2017. En réalité, la proportion de consommateurs ignorés devait être inférieure à 20,8%, puisque les individus peuvent habiter dans une commune avec moins de 2000 habitants, mais acheter des produits dans des communes avec une population supérieure. Néanmoins, une certaine partie des consommations étaient laissées de côté.
 
