@@ -13,3 +13,6 @@ L'IPC est publié chaque mois au Journal Officiel. Pour le calculer, sont pris e
 - Multiplier le résultat obtenu par 100 (l’indice de référence : on considère que le prix de départ, donc du premier panier, était de 100%)
 - On soustrait 100 (le même indice de référence) entre les deux paniers 
 - On obtient alors un résultat en pourcentage qui correspond à l’inflation. Si l’IPC est négatif, alors le pays est dans une situation d'inflation; s'il est négatif, le pays est confronté à une déflation. 
+
+
+[Comment l'IPC est-il calculé ?]((https://alexisdelobbe.github.io/enquete_vie_sociale_donnees/parties/calcul_IPC.html)
