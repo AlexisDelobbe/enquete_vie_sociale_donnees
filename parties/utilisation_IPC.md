@@ -8,7 +8,7 @@ Les gouvernements se servent aussi de l'IPC pour déterminer les retraites, le m
 Au delà de l'évaluation des politiques monétaires au niveau national, l'IPC sert aussi à mesurer la compétitivité d'un pays sur la scène internationale. 
 
 <details> 
-  <summary>Exemple: la crise au Venezuela</summary>
+  <summary>> Exemple: la crise au Venezuela</summary>
   
 En raison de la faiblesse des politiques du gouvernement, le Venezuela est confronté à une situation d'hyperinflation qui est la cause d'une crise économique, politique et sociale. En 2014, le Venezuela est entré en récession. En 2018, l'inflation a atteint 130 000 %. En 2022, le taux de chômage a crû à plus de 36 %. Le revenu des gens ne suffit plus pour acheter les produits de première nécessité, ce qui entraîne une augmentation du taux de criminalité, ainsi que l'exode de dizaines de millions de personnes.
   
