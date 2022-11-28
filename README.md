@@ -25,7 +25,7 @@ L'indice d'inflation joue donc un rôle très important dans l'économie. Le cal
 - Lequiller, François. « L’indice des prix à la consommation surestime-t-il l’inflation ? ». Economie et Statistique, no. 303, 1997, pp. 3-32.
 - Advisory Commission to Study the Consumer Price Index. Toward a More Accurate Measure of the Cost of Living, 4 décembre 1996. (https://www.ssa.gov/history/reports/boskinrpt.html)
 - www.service-public.fr. "Qu’est-ce que l’indice des prix à la consommation ?". 4 Janvier 2022. [online] Available at: https://www.service-public.fr/particuliers/actualites/A15404 
-- - Le Monde avec AFP. En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985, En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985. (https://www.lemonde.fr/economie/article/2022/10/28/en-france-l-inflation-a-atteint-6-2-sur-un-an-en-octobre-un-niveau-inedit-depuis-1985_6147680_3234.html)
+- Le Monde avec AFP. En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985, En France, l’inflation a atteint 6,2 % sur un an en octobre, un niveau inédit depuis 1985. (https://www.lemonde.fr/economie/article/2022/10/28/en-france-l-inflation-a-atteint-6-2-sur-un-an-en-octobre-un-niveau-inedit-depuis-1985_6147680_3234.html)
 - Le Monde avec AFP. Au Venezuela, l’inflation a été de 130 060 % en 2018, 29 mai 2019 (https://www.lemonde.fr/international/article/2019/05/29/venezuela-l-inflation-a-ete-de-130-060-en-2018_5469091_3210.html)
 - L'Insee - Un peu d'histoire, 25 octobre, 2021 (https://www.insee.fr/fr/information/1300622)
 - L'essentiel sur... l'inflation, 25 octobre, 2022 (https://www.insee.fr/fr/statistiques/4268033#onglet-3)
