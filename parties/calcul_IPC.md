@@ -1,6 +1,6 @@
 ## Comment l'IPC est-il calculé ?
 
-L’IPC est calculé en mesurant l’évolution des prix d’un panier donné. Ce dernier doit donc représenter de façon assez réaliste les grandes tendances de consommation des ménages en France. Pour déterminer ce panier, l’Insee utilise trois grandes d’agrégation des données, afin de passer des prix et des quantités relevés dans les commerces sur le terrain, à un indice général des prix de l’économie française.
+L’IPC est calculé en mesurant l’évolution des prix d’un panier donné. Ce dernier doit donc représenter de façon assez réaliste les grandes tendances de consommation des ménages en France. Pour déterminer ce panier, l’Insee utilise trois étapes d’agrégation successives, afin de passer des prix et des quantités relevés dans les commerces sur le terrain, à un indice général des prix de l’économie française.
 
 La méthode employée par l’Insee est celle de l’indice de Laspeyres, dans laquelle l’on fixe un panier de produits consommés lors d’une année de référence auquel on attribue un prix de 100. On étudie ensuite les variations du prix de ce panier dans les périodes suivantes. Cette méthode s’oppose à l’indice de Paasche, dans laquelle le panier de produits utilisé se base sur les données de l’année étudiée, et non celles d’une année de référence antérieure.
 
