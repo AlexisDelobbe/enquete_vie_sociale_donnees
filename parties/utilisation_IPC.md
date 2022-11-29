@@ -23,7 +23,7 @@ En maîtrisant le taux de l'inflation, la banque centrale maintient la stabilit�
 
 L'inflation affecte toutes les entreprises, mais les petites et moyennes entreprises sont les plus fragiles. Une inflation élevée entraîne une augmentation du prix des matériaux, de l'énergie et des transports.  De plus, lorsque l'inflation est élevée, la baisse de la demande réduit également les revenus des entreprises. Quand le marché est également volatil, les entreprises sont en difficulté pour prévoir les prix et les mouvements du marché. Confrontées à ce genre de situation, les petites et moyennes entreprises doivent supprimer des postes et rétrécir leur marché. L'inflation entraîne également une hausse des taux d'intérêt, ce qui rend difficile aux entreprises l'accès au capital nécessaire pour se développer. 
 Au contraire, la déflation limite la croissance de l'économie. Quand les prix baissent souvent, les consommateurs ont tendance à accumuler de l'argent pour attendre d'autres rabais. Les entreprises limtent donc leur production et les recrutements. Cela augmente le taux de chômage, ce qui affecte le revenu des ménages: les revenus baissent, le pouvoir d'achat diminue également, créant un cercle vicieux. 
-Par conséquent, les entreprises surveillent également l'indice d'inflation pour mieux construire leur plan d'affaires sur le long terme long terme.
+Par conséquent, les entreprises surveillent également l'indice d'inflation pour mieux construire leur plan d'affaires sur le long terme.
 
 ### Les investisseurs
 
