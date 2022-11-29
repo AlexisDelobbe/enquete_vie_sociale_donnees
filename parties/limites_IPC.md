@@ -1,4 +1,4 @@
-## A quelles limites et critiques l'IPC fait-il face ?
+## A quelles limites et critiques l'inflation fait-il face ?
 
 ### Une surestimation de l'inflation par la population.
 
