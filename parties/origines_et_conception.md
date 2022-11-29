@@ -1,4 +1,4 @@
-## Origines et conception de l'IPC
+## Origines et conception de l'inflation
  
 L'Institut national de la statistique et des études économiques est le bureau national des statistiques de France. L'INSEE a été créé par la loi de finances du 27 avril 1946. L’Insee est une direction générale du ministère de l'Économie et des Finances: elle collecte, analyse et diffuse des informations sur l’économie et la société française. Eurostat considère l'INSEE comme un organisme indépendant parce qu’il conduit ses travaux en indépendance professionnelle.
 
