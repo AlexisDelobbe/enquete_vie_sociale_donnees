@@ -1,8 +1,9 @@
-## Par qui est utilisé l'IPC et dans quel but? 
+## Par qui est utilisé le taux d'inflation et dans quel but? 
 
-L'IPC est utile à une multitude d'acteurs qui en font des usages différents.
+Le taux d'inflation est utile à une multitude d'acteurs qui en font des usages différents.
 
 ### Le gouvernement
+
 La volatilité de l'inflation a un impact sur l'ensemble de l'économie. Par conséquent, pour assurer la croissance de l'économie, le gouvernement doit assurer un taux d'inflation faible, stable et prévisible. Si l'inflation est élevée mais que le gouvernement n'a pas de mesures pour la contrôler, cela peut conduire à une hyperinflation: le prix des biens augmente rapidement et l'argent perd de la valeur, ce qui entraine l'effondrement de l'économie. 
 Les gouvernements se servent aussi de l'IPC pour déterminer les retraites, le montant du SMIC ainsi que les aides sociales telles que les pensions alimentaires. 
 Au delà de l'évaluation des politiques monétaires au niveau national, l'IPC sert aussi à mesurer la compétitivité d'un pays sur la scène internationale. 
